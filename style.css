@@ -1,0 +1,28 @@
+h1 {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    background-color: gray;
+    
+}
+p{
+    color: red;
+    font-size: 12px;
+}
+
+#para {
+    color: green;
+}
+
+.texto{
+    color: red;
+    
+}
+
+.italico{
+    font-style: italic ;
+}
+
+span{
+    color: blue;
+}
